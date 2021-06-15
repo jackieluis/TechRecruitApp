@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20@2x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20@2x~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20@3x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon20x20~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29@2x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29@2x~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29@3x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon29x29~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40@2x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40@2x~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40@3x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon40x40~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon60x60@2x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon60x60@3x.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon76x76@2x~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon76x76~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/AppIcon83.5x83.5@2x~ipad.png</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/bundle/Assets.car</string>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./ron.imageset/(null)[2d][ron.jpg.pdf]</string>
+				<string>./ron.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "ron" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./cho.imageset/(null)[2d][cho.jpg.pdf]</string>
+				<string>./cho.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "cho" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./database.imageset/(null)[2d][database.png.pdf]</string>
+				<string>./database.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "database" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./potter.imageset/(null)[2d][potter.jpg.pdf]</string>
+				<string>./potter.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "potter" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./seamus.imageset/(null)[2d][seamus.jpg.pdf]</string>
+				<string>./seamus.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "seamus" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./webDesign.imageset/(null)[2d][webDesign.png.pdf]</string>
+				<string>./webDesign.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "webDesign" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./dean.imageset/(null)[2d][dean.png.pdf]</string>
+				<string>./dean.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "dean" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./gregory.imageset/(null)[2d][gregory.jpg.pdf]</string>
+				<string>./gregory.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "gregory" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./george.imageset/(null)[2d][george.jpg.pdf]</string>
+				<string>./george.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "george" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./ginny.imageset/(null)[2d][ginny.jpg.pdf]</string>
+				<string>./ginny.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "ginny" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./fred.imageset/(null)[2d][fred.jpg.pdf]</string>
+				<string>./fred.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "fred" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./TechRecruit.imageset/(null)[2d][TechRecruit.png.pdf]</string>
+				<string>./TechRecruit.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "TechRecruit" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./developer.imageset/(null)[2d][developer.png.pdf]</string>
+				<string>./developer.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "developer" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./draco.imageset/(null)[2d][draco.jpg.pdf]</string>
+				<string>./draco.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "draco" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./home.imageset/(null)[2d][home.png.pdf]</string>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "home" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./jackie.imageset/(null)[2d][jackie.png.pdf]</string>
+				<string>./jackie.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "jackie" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./fleur.imageset/(null)[2d][fleur.jpg.pdf]</string>
+				<string>./fleur.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "fleur" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./luna.imageset/(null)[2d][luna.jpg.pdf]</string>
+				<string>./luna.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "luna" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./hermione.imageset/(null)[2d][hermione.png.pdf]</string>
+				<string>./hermione.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "hermione" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./TRBanner.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "TRBanner" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./neville.imageset/(null)[2d][neville.jpg.pdf]</string>
+				<string>./neville.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "neville" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./vincent.imageset/(null)[2d][vincent.jpg.pdf]</string>
+				<string>./vincent.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "vincent" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./TechRecruit.imageset/(null)[2d][TechRecruit.png.pdf]</string>
+				<string>./TechRecruit.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TechRecruit.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "TechRecruit" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./database.imageset/(null)[2d][database.png.pdf]</string>
+				<string>./database.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./database.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "database" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./vincent.imageset/(null)[2d][vincent.jpg.pdf]</string>
+				<string>./vincent.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./vincent.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "vincent" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./ron.imageset/(null)[2d][ron.jpg.pdf]</string>
+				<string>./ron.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ron.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "ron" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./developer.imageset/(null)[2d][developer.png.pdf]</string>
+				<string>./developer.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./developer.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "developer" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./jackie.imageset/(null)[2d][jackie.png.pdf]</string>
+				<string>./jackie.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./jackie.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "jackie" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./cho.imageset/(null)[2d][cho.jpg.pdf]</string>
+				<string>./cho.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./cho.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "cho" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./draco.imageset/(null)[2d][draco.jpg.pdf]</string>
+				<string>./draco.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./draco.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "draco" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./potter.imageset/(null)[2d][potter.jpg.pdf]</string>
+				<string>./potter.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./potter.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "potter" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./gregory.imageset/(null)[2d][gregory.jpg.pdf]</string>
+				<string>./gregory.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./gregory.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "gregory" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./fleur.imageset/(null)[2d][fleur.jpg.pdf]</string>
+				<string>./fleur.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fleur.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "fleur" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./webDesign.imageset/(null)[2d][webDesign.png.pdf]</string>
+				<string>./webDesign.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./webDesign.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "webDesign" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./ginny.imageset/(null)[2d][ginny.jpg.pdf]</string>
+				<string>./ginny.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./ginny.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "ginny" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./dean.imageset/(null)[2d][dean.png.pdf]</string>
+				<string>./dean.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./dean.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "dean" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./neville.imageset/(null)[2d][neville.jpg.pdf]</string>
+				<string>./neville.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./neville.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "neville" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./hermione.imageset/(null)[2d][hermione.png.pdf]</string>
+				<string>./hermione.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./hermione.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "hermione" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./TRBanner.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./TRBanner.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "TRBanner" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./luna.imageset/(null)[2d][luna.jpg.pdf]</string>
+				<string>./luna.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./luna.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "luna" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./home.imageset/(null)[2d][home.png.pdf]</string>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./home.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "home" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./george.imageset/(null)[2d][george.jpg.pdf]</string>
+				<string>./george.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./george.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "george" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./seamus.imageset/(null)[2d][seamus.jpg.pdf]</string>
+				<string>./seamus.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./seamus.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "seamus" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./fred.imageset/(null)[2d][fred.jpg.pdf]</string>
+				<string>./fred.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./fred.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/rupash/Desktop/TechRecruit App/Final_TechRecruit/Final_TechRecruit.iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "fred" has 9 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

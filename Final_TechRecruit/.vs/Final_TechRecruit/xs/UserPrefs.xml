@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{635DAE56-8F1C-48CE-AFAA-E6434545505A}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final_TechRecruit/RecruiteeDetails.xaml">
+    <Files>
+      <File FileName="Final_TechRecruit/RecruiteeDetails.xaml" Line="78" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final_TechRecruit" expanded="True">
+            <Node name="Final_TechRecruit" expanded="True">
+              <Node name="DatabaseDevPage.xaml" expanded="True" />
+              <Node name="RecruiteeDetails.xaml" expanded="True" selected="True" />
+              <Node name="WDevPage.xaml" expanded="True" />
+              <Node name="webDesPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Final__TechRecruit.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Final__TechRecruit.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C342E24F-E3CB-448F-9587-0EFD90CD21BA" />
+</Properties>

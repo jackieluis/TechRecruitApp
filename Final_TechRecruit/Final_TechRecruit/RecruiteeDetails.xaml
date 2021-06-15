@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"             
+             x:Class="Final_TechRecruit.RecruiteeDetails">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS ="0,20,0,0"
+                    Android="0,0,0,0"
+                    WinPhone="0,0,0,0"/>
+    </ContentPage.Padding>
+     
+    <StackLayout BackgroundColor="#eeeeee" VerticalOptions="Fill" >
+        <Image Source="TRBanner.png" x:Name="banner">
+            <Image.GestureRecognizers >
+                <TapGestureRecognizer Tapped="TRBanner_Tapped" />
+            </Image.GestureRecognizers>
+        </Image>
+       <ScrollView> 
+        <StackLayout>
+            <Image x:Name="recImage"
+                   Aspect="AspectFill"
+                   HeightRequest="400" />
+            <Frame HasShadow="False"
+                   CornerRadius="40"
+                   Margin="0,-50,0,0"
+                   VerticalOptions="FillAndExpand">
+                <Grid VerticalOptions="CenterAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="btnEmail" Text="EMAIL"
+                            FontSize="Micro"
+                            Grid.Row="3"
+                            Grid.Column="2"
+                            TextColor="{StaticResource TRBackground}"
+                            BackgroundColor="{StaticResource TROrange}"
+                            Clicked="EmailTheRec"
+                            CornerRadius="28"
+                            Margin="0,-50,0,0"
+                            VerticalOptions="Start" HorizontalOptions="End"
+                            WidthRequest="56" HeightRequest="56"/>
+                    <Label x:Name="fullName" Text="Name Goes Here"
+                           Grid.Row="1"
+                           Grid.Column="0"
+                           Grid.ColumnSpan="3"
+                           Padding="20,0,0,0"
+                           FontAttributes="Bold"
+                           FontSize="18"/>
+                    <Label x:Name="recDegree" Text="Degree(s)"
+                           Grid.Row="2"
+                           Grid.ColumnSpan="2"
+                           Padding="20,10,0,0"
+                           FontSize="Medium"
+                           TextColor="{StaticResource Content}"
+                           LineBreakMode="WordWrap"/>
+                    <Label x:Name="recSchool" Text="School Goes Here"
+                           FontSize="Small"
+                           Grid.Row="3"
+                           Grid.ColumnSpan="2"
+                           Padding="20,0,0,0"
+                           TextColor="{StaticResource Content}" />
+                    <Label x:Name="recLanguages"
+                           Text="Languages"
+                           FontSize="Small"
+                           Grid.Row="4"
+                           Grid.Column="0"
+                           Grid.ColumnSpan="2"
+                           Padding="20,20,0,0"
+                           TextColor="{StaticResource TRBlue}"/>
+                    <Label x:Name="recSoftware"
+                           Text="Software(s)"
+                           FontSize="Small"
+                           Grid.Row="4"
+                           Grid.Column="2"
+                           Padding="0,20,0,0"
+                           TextColor="{StaticResource TRBlue}"/>
+                    
+                    <Label x:Name="recStrengths" Text="Strengths Go Here"
+                            FontSize="Small"
+                            TextColor="{StaticResource TRDarkBlue}"
+                            FontAttributes="Bold"
+                            Grid.Row="5"
+                            Grid.ColumnSpan="3"
+                            Padding="20,20,0,0" />
+                    <Label x:Name="recBio" Text="Bio"
+                            FontSize="Body"
+                            TextColor="{StaticResource Content}"
+                            Grid.Row="6"
+                            Grid.ColumnSpan="3"
+                            Padding="25,20,0,0"
+                            VerticalOptions="FillAndExpand" />
+                </Grid>
+            </Frame>
+        </StackLayout> 
+       </ScrollView>           
+    </StackLayout>
+</ContentPage>

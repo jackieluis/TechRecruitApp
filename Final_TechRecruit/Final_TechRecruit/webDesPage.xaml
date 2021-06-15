@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:pg="clr-namespace:Final_TechRecruit"
+             x:Class="Final_TechRecruit.webDesPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+         
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout BackgroundColor="{StaticResource TRBlue}">
+        <Image Source="TRBanner.png"
+               Aspect="AspectFill">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TRBanner_Tapped" />
+            </Image.GestureRecognizers>
+        </Image>            
+        <Label Text="Find your next Web Designer!"
+               HorizontalOptions="Center"
+               FontSize="Title"
+               TextColor="{StaticResource TRFont}"
+               Margin="0,10,0,10"/>
+       
+      
+        <CollectionView x:Name="cvWebDes" Margin="20,0,0,0"
+                       SelectionMode="Single" SelectionChanged="SelectionMade">
+         <CollectionView.ItemTemplate>
+             <DataTemplate>
+                 <Grid BindingContext="webDesRecruiteesAZ" Padding="1">
+                     <Grid.ColumnDefinitions>
+                         <ColumnDefinition Width="40" />
+                         <ColumnDefinition Width="*" />
+                     </Grid.ColumnDefinitions>
+                     <Image Grid.Column="0" Source="{Binding ImageURL}" HeightRequest="50"  Margin="0,0,0,10" />
+                     <StackLayout Orientation="Vertical" Grid.Column="1" VerticalOptions="CenterAndExpand" Margin="5,0,0,0" >
+                         <Label Text="{Binding FullName}" TextColor="{StaticResource TRFont}"
+                                FontAttributes="Bold" FontSize="21" HeightRequest="26"/>
+                         <Label Text="{Binding Strengths}" TextColor="{StaticResource TRFont}" FontSize="12" HeightRequest="15" Margin="0,0,0,10"/>
+                         <Label Text=" " HeightRequest="3" />
+                     </StackLayout>
+                 </Grid>
+             </DataTemplate>
+         </CollectionView.ItemTemplate>
+           <CollectionView.GestureRecognizers>
+               <TapGestureRecognizer Tapped="SelectionMade" />
+            </CollectionView.GestureRecognizers>
+       </CollectionView>      
+
+   </StackLayout>
+</ContentPage>

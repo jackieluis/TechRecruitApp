@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:pg="clr-namespace:Final_TechRecruit"
+             x:Class="Final_TechRecruit.ShellPage">
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <Image Source="TechRecruit.png" VerticalOptions="Center"
+                   Aspect="AspectFill" HorizontalOptions="CenterAndExpand" />
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+    <FlyoutItem Title="Home Page" Icon="home.png">
+        <ShellContent ContentTemplate="{DataTemplate pg:MainPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Web Designers" Icon="webDesign.png">
+        <ShellContent ContentTemplate="{DataTemplate pg:webDesPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Web Developers" Icon="developer.png">
+        <ShellContent ContentTemplate="{DataTemplate pg:WDevPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Database Developers" Icon="database.png">
+        <ShellContent ContentTemplate="{DataTemplate pg:DatabaseDevPage}" />
+    </FlyoutItem>
+</Shell>

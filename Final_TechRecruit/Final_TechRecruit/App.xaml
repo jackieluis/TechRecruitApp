@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Final_TechRecruit.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            
+            <Color x:Key="TRDarkBlue">#032539</Color>
+            <Color x:Key="TRBlue">#1C768f</Color>
+            <Color x:Key="TRBackground">#eeeeee</Color>
+            <Color x:Key="TRFont">#F8F3F2</Color>
+            <Color x:Key="TROrange">#fa991c</Color>
+            <Color x:Key="Content">Black</Color>
+
+            <Style x:Key="MainBG" TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="{StaticResource TRBackground}" />              
+            </Style>
+            
+            <Style x:Key="labelHeader" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Start"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="FontFamily" Value="Arial"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="Large"/>
+                <Setter Property="TextColor" Value="{StaticResource TRDarkBlue}"/>
+            </Style>
+            
+            <Style x:Key="labelBody" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Start" />
+                <Setter Property="VerticalOptions" Value="Start" />
+                <Setter Property="FontFamily" Value="Arial" />
+                <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="TextColor" Value="{StaticResource TRBlue}" />
+                <Setter Property="Padding" Value="20,0,10,20" />
+                
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
